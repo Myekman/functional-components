@@ -57,3 +57,8 @@
     flex-direction: column;
     margin: 0 10%;
 }
+
+.contentstyle {
+    color: blue;
+    height: 800px;
+}
